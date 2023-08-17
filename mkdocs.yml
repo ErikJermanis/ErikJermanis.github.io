@@ -2,3 +2,17 @@ site_name: Erik Jermaniš
 theme:
   name: material
   language: en
+  palette:
+    # Light mode settings
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: teal
+
+    # Dark mode settings
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: teal
