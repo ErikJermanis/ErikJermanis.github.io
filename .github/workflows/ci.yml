@@ -1,36 +1,19 @@
 name: ci
-
 on:
   push:
     branches:
+      - master
       - main
-
 permissions:
   contents: write
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checkout the repo
       - uses: actions/checkout@v3
-
-      # Step 2: Backup the CNAME file
-      - name: Backup CNAME
-        run: |
-          git fetch origin gh-pages
-          git checkout gh-pages
-          if [ -f CNAME ]; then
-            cp CNAME CNAME_backup
-          fi
-          git checkout -
-
-      # Step 3: Setup Python
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
-
-      # Step 4: Setup cache (as in your original file)
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
       - uses: actions/cache@v3
         with:
@@ -38,19 +21,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-
-      # Step 5: Install mkdocs-material and deploy
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
-
-      # Step 6: Restore the CNAME file
-      - name: Restore CNAME
-        run: |
-          git checkout gh-pages
-          if [ -f CNAME_backup ]; then
-            cp CNAME_backup CNAME
-            git add CNAME
-            git commit -m "Restore CNAME"
-            git push origin gh-pages
-          fi
-          git checkout -
