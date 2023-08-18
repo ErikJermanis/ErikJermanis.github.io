@@ -27,6 +27,8 @@ jobs:
         run: |
           git checkout gh-pages
           echo "erikjermanis.me" > CNAME
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
           git add CNAME
           git commit -m "Add CNAME"
           git push origin gh-pages
