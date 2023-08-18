@@ -23,3 +23,10 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
+      - name: Setup CNAME
+        run: |
+          git checkout gh-pages
+          echo "erikjermanis.me" > CNAME
+          git add CNAME
+          git commit -m "Add CNAME"
+          git push origin gh-pages
