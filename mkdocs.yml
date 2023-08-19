@@ -6,6 +6,8 @@ extra:
       link: https://github.com/ErikJermanis
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/erik-jermanis/
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   language: en
