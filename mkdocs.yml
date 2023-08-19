@@ -2,6 +2,12 @@ site_name: Erik Jermaniš
 theme:
   name: material
   language: en
+  icon:
+    logo: material/laptop
+  favicon: favicon.png
+  features:
+    - navigation.tabs
+    - navigation.top
   palette:
     # Light mode settings
     - scheme: default
