@@ -1,4 +1,6 @@
-# Erik Jermaniš - JavaScript developer
+# CV
+
+## Erik Jermanis - JavaScript developer
 
 \
 📞 +385 99 330 1977\

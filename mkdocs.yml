@@ -1,7 +1,18 @@
 site_name: Erik Jermaniš
+plugins: []
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ErikJermanis
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/erik-jermanis/
 theme:
   name: material
   language: en
+  font:
+    text: Poppins
+    # text: Handjet
+    code: Roboto Mono
   icon:
     logo: material/laptop
   favicon: favicon.png
@@ -14,11 +25,13 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: teal
+      primary: blue grey
+      accent: orange
 
     # Dark mode settings
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: teal
+      primary: blue grey
+      accent: yellow
