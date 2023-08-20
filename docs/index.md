@@ -8,9 +8,10 @@ hide:
 
 # Erik Jermaniš { .textCenter }
 
-Hi! My name is **Erik**. I am a software developer from Croatia.
+Hi! I'm **Erik**. I am a software developer from Croatia.
 { .textCenter }
 
 [About me](about.md){ .md-button .md-button--primary .mb }
-[CV](CV.md){ .md-button .md-button--primary }
+[CV](CV.md){ .md-button .md-button--primary .mb }
+[Tutorials](tutorials/index.md){ .md-button .md-button--primary }
 { .centerContent }
