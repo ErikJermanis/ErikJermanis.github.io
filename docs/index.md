@@ -12,5 +12,5 @@ Hi! My name is **Erik**. I am a software developer from Croatia.
 { .textCenter }
 
 [About me](about.md){ .md-button .md-button--primary .mb }
-[CV](cv.md){ .md-button .md-button--primary }
+[CV](CV.md){ .md-button .md-button--primary }
 { .centerContent }
