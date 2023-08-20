@@ -16,3 +16,13 @@ h1 {
 .textCenter {
 	text-align: center;
 }
+
+.centerContent {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.mb {
+	margin-bottom: 0.5rem;
+}

@@ -4,8 +4,8 @@ markdown_extensions:
   - attr_list
 nav:
   # - Home: index.md
+  - About: about.md
   - CV: CV.md
-  - Anything really: something.md
 extra:
   social:
     - icon: fontawesome/brands/github
