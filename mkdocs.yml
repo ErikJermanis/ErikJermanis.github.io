@@ -5,7 +5,11 @@ markdown_extensions:
 nav:
   # - Home: index.md
   - About: about.md
-  - CV: CV.md
+  - CV: cv.md
+  - Tutorials:
+      - tutorials/index.md
+      - Tutorial 1: tutorials/tutorial1.md
+      - Tutorial number two: tutorials/tutorial2.md
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -26,6 +30,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.indexes
   palette:
     # Light mode settings
     - scheme: default

@@ -1,14 +1,8 @@
 # CV
 
-## Erik Jermanis - JavaScript developer
+<a href="./assets/cv.pdf" download class="md-button md-button--primary">Download pdf</a>
 
-\
-📞 +385 99 330 1977\
-✉️ erik55jermanis@gmail.com\
-📍 Rijeka, Croatia\
-\
-Linkedin: https://www.linkedin.com/in/erik-jermanis/ \
-Github: https://github.com/ErikJermanis
+## Erik Jermanis - JavaScript developer
 
 ---
 
@@ -113,7 +107,3 @@ I have a bachelor's degree in Information Technology from University of Rijeka, 
 <mark>D3.js</mark>&emsp;
 <mark>Vue.js</mark>&emsp;
 <mark>Nuxt.js</mark>&emsp;
-
-## And someting else
-
-this is not it
