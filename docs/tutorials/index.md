@@ -1,3 +1,5 @@
 # Tutorials
 
-This is a page for tutorials
+I write these tutorials primarily as a learning method. Whenever I learn something interesting, or want to write something down so I don't forget, I make a tutorial out of it.
+
+- [Using cUrl for API requests](using-curl-for-api-requests)

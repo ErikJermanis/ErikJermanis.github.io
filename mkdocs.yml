@@ -5,14 +5,21 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
 nav:
   # - Home: index.md
   - About: about.md
   - CV: CV.md
   - Tutorials:
       - tutorials/index.md
-      - Tutorial 1: tutorials/tutorial1.md
-      - Tutorial number two: tutorials/tutorial2.md
+      - Using cURL for API requests: tutorials/using-curl-for-api-requests.md
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -34,6 +41,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.indexes
+    - content.code.copy
   palette:
     # Light mode settings
     - scheme: default
