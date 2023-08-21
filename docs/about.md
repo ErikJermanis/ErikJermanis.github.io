@@ -11,7 +11,7 @@ My name is Erik Jermaniš. I am a 23 year old software developer with over 4 yea
 
 I live in Croatia.
 
-## How it all began
+## Early beginnings
 
 Back when I was in kindergarten, we had a computer with a few old-school games installed on it. I always loved spending time on it, not just for playing games, but also for exploring everything else (mostly just clicking arround random menus). When my kindergarten teacher told my parents about my passion for computers, they decided to buy me a laptop. It was a bulky _Asus_ laptop with _Windows XP_.
 
