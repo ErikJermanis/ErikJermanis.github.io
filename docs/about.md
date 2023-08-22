@@ -7,11 +7,11 @@ hide:
 
 ## General info
 
-My name is Erik Jermaniš. I am a 23 year old software developer with over 4 years of professional experience.
+My name is Erik Jermaniš. I am a 23 year old software engineer with over 4 years of professional experience.
 
 I live in Croatia.
 
-## How did I become a developer?
+## How did I become a software engineer?
 
 ### Early beginnings
 

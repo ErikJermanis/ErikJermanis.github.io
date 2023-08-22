@@ -86,7 +86,7 @@ To see information such as response status and response headers, use `-i` flag.
 curl -i http://localhost:8000/api/v1/todos
 ```
 
-## When it gets messy
+## When things gets messy
 
 When you need to send a request with multiple headers and a long url, it can quickly become a burden to type everything. You can easily end up with something like this:
 
