@@ -20,6 +20,7 @@ nav:
   - Tutorials:
       - tutorials/index.md
       - Using cURL for API requests: tutorials/using-curl-for-api-requests.md
+      - Git workflow for contributing to open source projects: tutorials/git-workflow-for-contributing-to-open-source-projects.md
 extra:
   social:
     - icon: fontawesome/brands/github
