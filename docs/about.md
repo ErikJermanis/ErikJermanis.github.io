@@ -28,3 +28,22 @@ After that first lesson, I took the book that we had, and started learning every
 ### Start of professional career
 
 While I was in college, I had a part-time job at a local print shop. One day, the owner told me that he would like to create a webshop for his print shop. An idea was born in my head :bulb:. I spoke with my friend from college, and after a brief chat, we decided to co-found a small web dev company. My former boss became our first client.
+
+## Professional work
+
+I specialize in web development and have spent most of my career working with **_JavaScript_**, particularly **_TypeScript_**. My primary focus has been on developing and maintaining front-end applications using [React](https://react.dev/).
+
+Even though I said that I specialize in front-end web development with _React_, I don't like the idea of calling myself a _React developer_ because my skill set is much broader than the single _JavaScript_ library. My **_experience_** also includes (but is not limited to):
+
+- [Node.js](https://nodejs.org/en)
+- [Express](https://expressjs.com/)
+- [Prisma](https://www.prisma.io/)
+- [React Native](https://reactnative.dev/)
+- [Vue](https://vuejs.org/)
+- [PHP](https://www.php.net/)
+- [Rust](https://www.rust-lang.org/)
+- [Python](https://www.python.org/)
+
+## Mindset
+
+To me, code and software are nothing more than tools (which I really enjoy using) to achieve a higher goal. I love problem solving and building things. I approach every task with the bigger picture in mind. Effective communication and collaboration with clients, designers, business analysts, project managers and fellow developers are crucial components of my work process.
