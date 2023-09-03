@@ -12,6 +12,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - admonition
+  - pymdownx.details
 
 nav:
   # - Home: index.md
@@ -21,6 +23,7 @@ nav:
       - tutorials/index.md
       - Using cURL for API requests: tutorials/using-curl-for-api-requests.md
       - Git workflow for contributing to open source projects: tutorials/git-workflow-for-contributing-to-open-source-projects.md
+      - Solution for caret jumping in React inputs: tutorials/solution-for-caret-jumping-in-react-inputs.md
 extra:
   social:
     - icon: fontawesome/brands/github
