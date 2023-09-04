@@ -1,5 +1,5 @@
 site_name: Erik Jermaniš
-site_url: https://erikjermanis.me
+# site_url: https://erikjermanis.me
 plugins: []
 markdown_extensions:
   - attr_list
