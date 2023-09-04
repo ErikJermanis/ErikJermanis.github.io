@@ -1,8 +1,6 @@
 site_name: Erik Jermaniš
 site_url: https://erikjermanis.me
-plugins:
-  - social:
-# plugins: []
+plugins: []
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
