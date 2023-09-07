@@ -1,4 +1,5 @@
 ---
+description: My journey as a software engineer
 hide:
   - navigation
 ---

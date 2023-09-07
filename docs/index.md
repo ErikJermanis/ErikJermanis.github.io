@@ -1,4 +1,5 @@
 ---
+description: Personal website of Erik Jermaniš
 hide:
   - navigation
   - toc

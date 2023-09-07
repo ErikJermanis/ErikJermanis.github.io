@@ -1,3 +1,7 @@
+---
+description: Interesting things that I learned throughout my journey
+---
+
 # Tutorials
 
 I write these tutorials primarily as a learning method. Whenever I learn something interesting, or want to write something down so I don't forget, I make a tutorial out of it.

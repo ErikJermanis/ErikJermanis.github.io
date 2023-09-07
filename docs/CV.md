@@ -1,3 +1,7 @@
+---
+title: Curriculum Vitae
+---
+
 # CV
 
 <a href="./assets/cv.pdf" download class="md-button md-button--primary">Download pdf</a>
