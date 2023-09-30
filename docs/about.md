@@ -8,7 +8,7 @@ hide:
 
 ## General info
 
-My name is Erik Jermaniš. I am a 23 year old software engineer with over 4 years of professional experience.
+My name is Erik Jermaniš. I am a 24 year old software engineer with over 4 years of professional experience.
 
 I live in Croatia.
 
